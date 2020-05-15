@@ -1,7 +1,11 @@
 # Dataset: rsfMRI before and after one session EEG NF vs Sham NF
 
 Data from the study published in:
-Dobrushina, O.R., Vlasova, R.M., Rumshiskaya, A.D., Litvinova, L.D., Mershina, E.A., Sinitsyn, V.E., Pechenkova, E.V. (2020). Modulation of intrinsic brain connectivity by implicit electroencephalographic neurofeedback. Frontiers in Human Neuroscience. doi: 10.3389/fnhum.2020.00192
+Dobrushina, O.R., Vlasova, R.M., Rumshiskaya, A.D., Litvinova, L.D., 
+Mershina, E.A., Sinitsyn, V.E., Pechenkova, E.V. (2020). 
+Modulation of intrinsic brain connectivity by implicit 
+electroencephalographic neurofeedback. Frontiers in Human Neuroscience.
+doi: 10.3389/fnhum.2020.00192
 
 Resting state functional MRI data of 52 healthy participants (22
 male), who underwent a single 30-min session of real of sham infra-low
