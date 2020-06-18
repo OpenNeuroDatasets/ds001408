@@ -1,0 +1,17 @@
+{
+  "TaskName": "rest",
+  "RepetitionTime": 2,
+  "Manufacturer": "General Electrics",
+  "ManufacturersModelName": "Discovery MR750",
+  "MagenticFieldStrength": "3T",
+  "ReceiveCoilName": "HNS",
+  "PulseSequenceType": "EPI",
+  "PulseSequenceDetails": "2D Gradient Echo EPI fMRI 42 slices ascending interleaved",
+  "NumberShots": 1,
+  "EchoTime": 0.03,
+  "NumberOfVolumesDiscardedByScanner": 4,
+  "NumberOfVolumesDiscardedByUser": 0,
+  "DelayTime": 0,
+  "FlipAngle": 77,
+  "Instructions": "Lie still with eyes closed, don't keep yourself busy with any specific mental task, just follow the stream of your thoughts"
+}
